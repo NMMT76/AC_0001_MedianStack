@@ -1,0 +1,5 @@
+﻿This solution uses the SixLabors.ImageSharp package, under its Apache 2.0 License version of its Split License
+(https://github.com/SixLabors/ImageSharp/blob/main/LICENSE)
+
+The SixLabors.ImageSharp package itself includes licenced parts from other sources
+(https://github.com/SixLabors/ImageSharp/blob/main/THIRD-PARTY-NOTICES.TXT)
